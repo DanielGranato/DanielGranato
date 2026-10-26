@@ -2,36 +2,29 @@
 
 ### Full-Stack Development Student | UTN Buenos Aires
 
-I'm currently studying Full-Stack Development at Universidad Tecnológica Nacional (UTN) in Buenos Aires, while complementing my studies with practical courses at Alura.
+I'm studying Full-Stack Development at Universidad Tecnológica Nacional (UTN) in Buenos Aires, complemented by practical courses at Alura.
 
-I'm building hands-on projects to develop my skills across front-end and back-end technologies, with a current focus on CSS, JavaScript, React, APIs, and web development.
+I have built my front-end foundation (HTML, CSS, JavaScript, React and TypeScript) and I'm now moving deeper into **back-end development**: Python with FastAPI, Node.js with Express, MongoDB and APIs, with cloud technologies as the next step.
 
 ## 👨‍🎨 Background
 
-Before transitioning into software development, I worked in advertising, graphic design, web design, marketing, and digital communication.
+Before transitioning into software development, I worked in advertising, graphic design, web design, marketing and digital communication.
 
-This background gave me a strong foundation in visual design, user experience, and creative problem-solving, which I now combine with my studies in software development.
+That background gave me a strong foundation in visual design, user experience and creative problem-solving, which I now combine with software development.
 
 ## 🎓 Education & Learning
 
 - **Universidad Tecnológica Nacional (UTN) — Buenos Aires**
-  Full-Stack Development
+  Full-Stack Development (back end with Express and MongoDB)
 
 - **Alura**
-  Complementary courses in Web Development, CSS, JavaScript, React, and related technologies.
+  Python back-end career path, plus completed courses in Web Development, CSS, JavaScript, React and TypeScript.
 
-## 🚀 What I'm Learning
+## 🎯 Current Focus
 
-- HTML5 & CSS3
-- Responsive Web Design
-- JavaScript
-- DOM Manipulation
-- APIs
-- React
-- TypeScript
-- Backend Development
-- Cloud & Web Technologies
-- Git & GitHub
+- **Back end:** Python (functions, OOP, API consumption) and FastAPI, Node.js with Express, MongoDB and REST APIs.
+- **Cloud:** getting started with cloud technologies, using Python as the base.
+- **Keeping the front end sharp:** React and TypeScript through my own projects.
 
 ---
 
@@ -39,57 +32,46 @@ This background gave me a strong foundation in visual design, user experience, a
 
 ### Front-end
 
-HTML5 • CSS3 • JavaScript • React • TypeScript
+HTML5 • CSS3 • JavaScript • React • TypeScript • Tailwind CSS • React Router • React Hook Form • Zod • Vite
+
+### Back-end (learning)
+
+Python • FastAPI • Node.js • Express • MongoDB • REST APIs
 
 ### Tools
 
-Git • GitHub • VS Code • Linux • WSL
+Git • GitHub • GitHub Pages & Actions • VS Code • Linux • WSL
 
-### Currently Exploring
+### Next
 
-Python • Backend Development • Cloud Technologies
+Cloud Technologies
 
 ---
 
 ## 📂 Featured Projects
 
-Here are some of the projects I'm currently developing as part of my learning journey:
+### 🧴 Le Scent Atelier — Fictional perfume storefront
 
-### 🌐 Landing Page Fundamentals
+A portfolio project: a complete front-end store with a written design system, catalog with filters and search, product pages with size selector, cart, mock auth, a validated checkout with automatic address lookup (ViaCEP), and a custom canvas animation. Built with React, TypeScript, Tailwind, React Router, React Hook Form and Zod, and deployed on GitHub Pages.
+[Live demo](https://danielgranato.github.io/le-scent-atelier/) · [Code](https://github.com/DanielGranato/le-scent-atelier)
 
-Responsive landing page developed to practice HTML, CSS, layout techniques, and responsive design.
+### 🍔 Food Delivery (Python) — in progress
 
-### 📱 Mobile First
+A terminal food delivery app to practice Python functions, object-oriented programming and API consumption. My first back-end project.
+[Code](https://github.com/DanielGranato/food-delivery-python)
 
-Responsive website developed using a mobile-first approach, focusing on CSS componentization, inheritance, refactoring, responsive images, accessibility, SEO, and performance optimization.
+### Earlier front-end projects
 
-### 🏦 Bank — Fintech Landing Page
-
-Responsive fintech website built with HTML and CSS, featuring multiple pages, a registration form, responsive layouts, and a financial products gallery.
-
-### 📝 Online Survey Form
-
-Responsive survey form built with HTML and CSS, focusing on semantic structure, form elements, and responsive design.
-
-### ⏱️ Focus Timer
-
-JavaScript project focused on DOM manipulation, events, timers, audio controls, and dynamic interface updates.
-
-### 🛒 Shopping Cart
-
-JavaScript project focused on programming logic, DOM manipulation, forms, item selection, quantities, and dynamic price calculation.
+- 🏦 **Bank — Fintech Landing Page:** responsive multi-page site with HTML and CSS, a registration form and a financial products gallery.
+- 📱 **Mobile First:** responsive website focused on CSS componentization, accessibility, SEO and performance.
+- 🌐 **Landing Page Fundamentals** and 📝 **Online Survey Form:** responsive layouts and semantic forms.
+- ⏱️ **Focus Timer** and 🛒 **Shopping Cart:** JavaScript projects on DOM manipulation, events, forms and dynamic calculations.
 
 ---
 
-## 🎯 Current Focus
+## 🚀 Goal
 
-I'm currently focusing on strengthening my JavaScript fundamentals, learning DOM manipulation and React, while progressively expanding my knowledge of APIs, backend development, and cloud technologies.
-
----
-
-## 🎯 Goals
-
-My goal is to become a well-rounded full-stack developer capable of building complete, scalable web applications — from the user interface to the backend and cloud infrastructure.
+To become a well-rounded full-stack developer capable of building complete, scalable web applications, from the user interface to the back end and cloud infrastructure.
 
 ---
 
